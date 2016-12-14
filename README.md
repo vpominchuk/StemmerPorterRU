@@ -3,6 +3,8 @@
 
 Stemmer Porter Russian language
 
+Porter Stemming for Russian language
+
 # Download
 $ git clone git://github.com/vpominchuk/StemmerPorterRU
 
