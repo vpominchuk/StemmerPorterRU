@@ -11,8 +11,6 @@ public class StemmerPorterRuTest {
 
     public static void main(String[] args)
     {
-        System.out.println("Hello World!!!!");
-
         String word = "чрезвычайно";
 
         System.out.println(StemmerPorterRU.stem(word));
